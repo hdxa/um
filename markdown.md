@@ -1,0 +1,1 @@
+![Use Case Diagram Example](https://i.imgur.com/6fW2JcS.png)
